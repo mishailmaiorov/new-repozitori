@@ -26,7 +26,7 @@ C = основание логарифма и логарифмируемое чи
 
 ![alt text](./img/2.png)
 
-![alt text](image.png)
+![alt text](./img/3.png)
 
 <a href="https://falstad.com/circuit/">сайт</a>
 
